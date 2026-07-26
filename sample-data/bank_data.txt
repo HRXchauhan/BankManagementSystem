@@ -1,0 +1,4 @@
+101,Alice Johnson,5000.00
+102,Bob Smith,3000.00
+103,Charlie Davis,8000.00
+104,Diana Prince,1200.00
