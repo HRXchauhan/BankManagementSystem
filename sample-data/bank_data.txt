@@ -1,4 +1,4 @@
-101,Alice Johnson,5000.00
-102,Bob Smith,3000.00
-103,Charlie Davis,8000.00
-104,Diana Prince,1200.00
+0,rain,10.00
+101,HARSH,1000000.00
+102,priti ,100000.00
+103,rahul,5000.00
